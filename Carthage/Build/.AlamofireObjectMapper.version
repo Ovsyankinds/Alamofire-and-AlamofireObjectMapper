@@ -1,0 +1,27 @@
+{
+  "iOS" : [
+    {
+      "hash" : "21e47200eb8fa764ddc0d34bd9728938159975b78644843c16d17f0ea1d21ec2",
+      "name" : "AlamofireObjectMapper"
+    }
+  ],
+  "commitish" : "4.1.0",
+  "watchOS" : [
+    {
+      "hash" : "d9e7f7e025ef394e219e63479ea12186205dabe5e2273ebf1eeec93b0b47d16b",
+      "name" : "AlamofireObjectMapper"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "fe331dc22703246bdb46c30208df5582c5f766a04e0988d61382928582d8bb67",
+      "name" : "AlamofireObjectMapper"
+    }
+  ],
+  "Mac" : [
+    {
+      "hash" : "9589270743824340dbdbac125644a28fcbcfc799abf839c08ce5b9e8a9adc590",
+      "name" : "AlamofireObjectMapper"
+    }
+  ]
+}
